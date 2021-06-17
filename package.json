@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "ffprobe": "^1.1.2",
+    "ffprobe-static": "^3.0.0",
+    "gif-frames": "^1.0.1",
+    "gifencoder": "^2.0.1"
+  }
+}
